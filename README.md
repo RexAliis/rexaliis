@@ -4,9 +4,13 @@ I am interested in the software engineer path. Currently, as a learning project,
 
 If you ever want to chat, my Discord is `rexaliis`. Feel free to reach out!
 
+![Rex Aliis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexaliis&theme=transparent&show_icons=true&hide_title=true&hide_rank=true&hide_border=true#bg-light-mode-only)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rexaliis&layout=compact&theme=transparent&hide_border=true&hide_title=true)
+
 <details>
   <summary>More About me</summary><br>
-My name is Aliis. I am 17 years old and from Argentina, the land of mate, dulce de leche, and passionate soccer. I enjoy music, computing, tactical video games, and spending time with my pets. I’m shy but still enthusiastic.
+My name is Aliis. I am from Argentina, the land of mate, dulce de leche, and passionate soccer. I enjoy music, computing, tactical video games, and spending time with my pets. I’m shy but still enthusiastic.
 
 ### My daily routine
 I like to accompany my daily routines with Lena Raine's music. I study computer science from home whenever I can, and in my free time, I learn music theory or watch VODs from [Woohoojin](https://www.youtube.com/@Woohoojin).
