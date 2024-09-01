@@ -16,7 +16,7 @@ My name is Aliis. I am from Argentina, the land of mate, dulce de leche, and pas
 I like to accompany my daily routines with Lena Raine's music. I study computer science from home whenever I can, and in my free time, I learn music theory or watch VODs from [Woohoojin](https://www.youtube.com/@Woohoojin).
 
 ### About computing and the internet
-I've had a strong passion for computer science for as long as I can remember. My first programming project was at the age of 13—a personal Discord bot made in Python using [discord.py](https://github.com/Rapptz/discord.py). After that, I explored various technologies until I was 15, when I came across tools like TypeScript, MongoDB, Express, Vue.js, and Electron. This is when I developed my first project, which, though disorganized and not very robust, helped me understand the field better: [AliisRPCMaker](https://github.com/RexAliis/AliisRPCMaker), a client for setting up custom Discord presences.
+I've had a strong passion for computer science for as long as I can remember. My first programming project was at the age of 13—a personal Discord bot made in Python using [discord.py](https://github.com/Rapptz/discord.py). After that, I explored various technologies until I was 15. This is when I developed my first project, which, though disorganized and not very robust, helped me understand the field better: [AliisRPCMaker](https://github.com/RexAliis/AliisRPCMaker), a client for setting up custom Discord presences.
 
 I also worked on other projects, such as plugins for [Mindustry](https://mindustrygame.github.io/). At the same time, I became a [Discord Partner](https://discord.com/partners).
 
