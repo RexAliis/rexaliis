@@ -12,9 +12,6 @@ If you ever want to chat, my Discord is `rexaliis`. Feel free to reach out!
   <summary>More About me</summary><br>
 My name is Aliis. I am from Argentina, the land of mate, dulce de leche, and passionate soccer. I enjoy music, computing, tactical video games, and spending time with my pets. I’m shy but still enthusiastic.
 
-### My daily routine
-I like to accompany my daily routines with Lena Raine's music. I study computer science from home whenever I can, and in my free time, I learn music theory or watch VODs from [Woohoojin](https://www.youtube.com/@Woohoojin).
-
 ### About computing and the internet
 I've had a strong passion for computer science for as long as I can remember. My first programming project was at the age of 13—a personal Discord bot made in Python using [discord.py](https://github.com/Rapptz/discord.py). After that, I explored various technologies until I was 15. This is when I developed my first project, which, though disorganized and not very robust, helped me understand the field better: [AliisRPCMaker](https://github.com/RexAliis/AliisRPCMaker), a client for setting up custom Discord presences.
 
