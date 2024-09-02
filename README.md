@@ -1,6 +1,6 @@
 Hello, welcome to my GitHub! My name is Aliis.
 
-I am interested in the software engineer path. Currently, as a learning project, I'm working on .NET Discord, a robust and abstract library designed to interact with the Discord API.
+I am interested in the software engineer path. Currently, as a learning project, I'm working on .NET Discord, a library designed to interact with the Discord API.
 
 If you ever want to chat, my Discord is `rexaliis`. Feel free to reach out!
 
