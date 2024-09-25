@@ -1,7 +1,5 @@
 Hello, welcome to my GitHub! My name is Aliis.
 
-I am interested in the software engineer path. Currently, as a learning project, I'm working on .NET Discord, a library designed to interact with the Discord API.
-
 If you ever want to chat, my Discord is `rexaliis`. Feel free to reach out!
 
 ![Rex Aliis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rexaliis&theme=transparent&show_icons=true&hide_title=true&hide_rank=true&hide_border=true#bg-light-mode-only)
@@ -17,5 +15,5 @@ I've had a strong passion for computer science for as long as I can remember. My
 
 I also worked on other projects, such as plugins for [Mindustry](https://mindustrygame.github.io/). At the same time, I became a [Discord Partner](https://discord.com/partners).
 
-Two years passed, and I stepped away from computing, but I have now returned with a more professional focus. I’m working on a self-learning project called [.NET Discord](https://github.com/NETDiscord), a library developed in .NET C# with the goal of being both robust and appealing.
+Two years passed, and I stepped away from computing, but I have now returned with a more professional focus. I’m working on a self-learning project called [.NET Discord](https://github.com/NETDiscord), a library developed in .NET C#
 </details>
